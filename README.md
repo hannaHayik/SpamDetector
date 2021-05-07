@@ -2,7 +2,7 @@
 Simple Spam detector from messages
 Data Structures Assignment 4
 
-Description: Simple Spam detector from given messages as text with focus on Implememnting HashTable & BTree
+Description: Simple Spam detector from given messages as text with focus on Implememnting HashTable & BTree  
 Stage1: parse friends.txt into BTree according to the proper rules (included in the assignment's PDF)  
 Stage2: parse message.txt into Messages object  
 Stage3: parse spam.words.txt into Spams object  

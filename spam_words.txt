@@ -1,0 +1,2 @@
+loan 2
+credit 1
